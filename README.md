@@ -1,5 +1,5 @@
-# proyecto_red
+# Proyecto_redes
 mqtt esp32 webserver socketserver
 
-# contribuitor
+# Contribuitor
 Pineda Aguirre Luis Eduardo
